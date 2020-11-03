@@ -39,7 +39,7 @@ iRing is able to recognize 4 states: Not Wearing, Wearing, Bending and Pressing.
 #### Histogram
 The X-axis of the histogram is Sensor number; Y-axis is the received data of the sensor. 
 <p align="center">
-  <img src="imgs/histogram.jpeg">
+  <img src="imgs/histogram.jpeg" width="50%">
 </p>
 
 #### Orientation
