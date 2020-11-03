@@ -45,30 +45,30 @@ The X-axis of the histogram is Sensor number; Y-axis is the received data of the
 #### Orientation
 The number in the circle shows the Sensor number, which is able to tell the orientation of iRing.
 <p align="center">
-  <img src="imgs/orientation.jpeg">
+  <img src="imgs/orientation.jpeg" width="50%">
 </p>
 
 ### Not Wearing
 Nothing blocks the IR sensor while not wearing, the received data of the sensors = 255.
 <p align="center">
-  <img src="imgs/notWearing.png">
+  <img src="imgs/notWearing.png" width="60%">
 </p>
 
 ### Wearing
 While wearing the ring, distance between ring and finger is in average. We can also tell the orientation of the ring from the picture in the upper left corner.
 <p align="center">
-  <img src="imgs/wearing.png">
+  <img src="imgs/wearing.png" width="60%">
 </p>
 
 ### Bending
 Data jitters while bending finger.
 <p align="center">
-  <img src="imgs/bending.png">
+  <img src="imgs/bending.png" width="60%">
 </p>
 
 ### Pressing
 One of the received data will be significantly larger when pressing sensor.
 <p align="center">
-  <img src="imgs/pressing-1.png">
-  <img src="imgs/pressing-2.png">
+  <img src="imgs/pressing-1.png" width="60%">
+  <img src="imgs/pressing-2.png" width="60%">
 </p>
